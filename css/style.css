@@ -2,8 +2,17 @@
 Version: 0.1.1
 */
 
+/* Universal */
+
 html, body {
   height: 100%;
+}
+
+/* Content */
+
+.wrapper {
+  width: 70%;
+  margin: 0 auto;
 }
 
 main {
