@@ -6,6 +6,7 @@ Version: 0.1.2
 
 html, body {
   height: 100%;
+  margin: 0;
 }
 
 /* Content */
@@ -30,6 +31,9 @@ aside {
 }
 
 /* Sidewide Alert */
-.sidewide-alert {
-  background-color: red;
+.sitewide-alert {
+  width: 100%;
+  background: red;
+  text-align: center;
+  color: white;
 }
