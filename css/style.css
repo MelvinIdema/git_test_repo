@@ -1,11 +1,12 @@
 /*
-Version: 0.1.2
+Version: 0.2
 */
 
 /* Universal */
 
 html, body {
   height: 100%;
+  margin: 0;
 }
 
 /* Content */
@@ -27,4 +28,12 @@ article {
 
 aside {
   grid-column: 2;
+}
+
+/* Sidewide Alert */
+.sitewide-alert {
+  width: 100%;
+  background: red;
+  text-align: center;
+  color: white;
 }

@@ -1,0 +1,5 @@
+A successful Git branching model
+https://nvie.com/posts/a-successful-git-branching-model/
+
+Automatic Deployment to server
+http://deployhq.com
