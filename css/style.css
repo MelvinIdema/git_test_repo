@@ -28,3 +28,8 @@ article {
 aside {
   grid-column: 2;
 }
+
+/* Sidewide Alert */
+.sidewide-alert {
+  background-color: red;
+}
