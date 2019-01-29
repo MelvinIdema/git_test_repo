@@ -1,3 +1,21 @@
 /*
 Version: 0.1.1
 */
+
+html, body {
+  height: 100%;
+}
+
+main {
+  display: grid;
+  grid-template-columns: 4fr 1fr;
+  grid-template-rows: 100%;
+}
+
+article {
+  grid-column: 1;
+}
+
+aside {
+  grid-column: 2;
+}
